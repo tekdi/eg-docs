@@ -1,0 +1,8 @@
+---
+sidebar_position: 5
+---
+
+# Database Schema
+
+- DB Schema / Data Model
+![User & Auth Service db schema](assets/usernauth.png)
