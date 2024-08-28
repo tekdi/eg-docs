@@ -4,5 +4,14 @@ sidebar_position: 1
 
 # About
 
-Notification Service is designed to deliver messages to users swiftly and effectively. By supporting a range of notification types like SMS, push notifications and email, this service ensures that user will receive timely updates through their preferred communication channels.
-This service is vital for maintaining user engagement and keeping them informed about key events and activities within your application or system.
+The Cohort Management Service is designed to manage groups (referred to as cohorts) consisting of users with different roles. This service is versatile and can be used in various scenarios where group-based actions are necessary. Below is a detailed overview of the service, including key concepts, functionalities, and use cases.
+
+#### Key Concepts
+Cohort: A cohort is a group of users who are grouped together for a specific purpose. Each cohort is distinct and can be customized according to the needs of the use case.
+
+#### Roles within Cohorts
+Users can be assigned different roles within each cohort. These roles are specific to the cohort and define the user's permissions and responsibilities within that group. A user can have different roles across different cohorts. For example, a user can be a:
+
+Student in a classroom cohort
+Teacher in a teacher training cohort
+Coach in a school football team cohort

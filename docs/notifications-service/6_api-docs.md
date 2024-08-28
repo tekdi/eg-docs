@@ -4,8 +4,6 @@ sidebar_position: 6
 
 # API Docs 
 
-# API Docs 
-
 **Method:** POST  
 **URL:** `http://localhost:4000/notification-templates`  
 **Headers:**
