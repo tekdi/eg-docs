@@ -4,5 +4,12 @@ sidebar_position: 1
 
 # About
 
-Notification Service is designed to deliver messages to users swiftly and effectively. By supporting a range of notification types like SMS, push notifications and email, this service ensures that user will receive timely updates through their preferred communication channels.
-This service is vital for maintaining user engagement and keeping them informed about key events and activities within your application or system.
+#### Overview
+The Activity and Tracking Service is a critical component designed to log and monitor all significant actions and changes within the EdoCert platform. This service ensures transparency and provides an audit trail for activities, enabling administrators and stakeholders to track user actions, changes to user groups, and other important events.
+
+#### Purpose
+The primary purpose of this service is to:
+
+- Track user activities such as group changes, account status updates (activation/deactivation), and other critical actions.
+- Provide a comprehensive audit trail for compliance, security, and troubleshooting purposes.
+- Enable monitoring of platform usage and user behavior over time.
